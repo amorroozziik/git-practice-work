@@ -1,5 +1,5 @@
 def helper():
-    return 42
+    return 99
 
 
 def new_feature():
